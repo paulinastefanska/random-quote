@@ -4,6 +4,8 @@ body { margin: 0 auto; text-align: center; font-family: 'Open Sans', sans-serif;
 
 .title { font-weight: 400; margin: 80px; }
 
+.quote, .author { font-weight: 400; }
+
 .buttons { width: 300px; margin: 60px auto; display: flex; justify-content: center; flex-direction: column; }
 
 .trigger { background: none; outline: none; padding: 0; }
